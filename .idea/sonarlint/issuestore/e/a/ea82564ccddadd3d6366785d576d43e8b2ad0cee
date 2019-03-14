@@ -1,0 +1,14 @@
+
+nsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(åé˜Äÿÿÿÿÿ8¢ÇÛµ—-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(’ã´Û8»ÎŒ²—-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥úºþøÿÿÿÿ8¢ÇÛµ—-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(©Ë†Ü8»ÎŒ²—-
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(­ÆªÈ8»ÎŒ²—-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ­´~8¢ÇÛµ—-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ðŽËíøÿÿÿÿ8¢ÇÛµ—-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½çà½þÿÿÿÿ8¢ÇÛµ—-
+1squid:S1220""Move this file to a named package.
