@@ -14,11 +14,19 @@ public class Fungsi {
          double hasil = hitungLuas(p,l,t);
          System.out.println("Hasil adalah " + hasil);
          int pn = 7;
-         int lb
+         int lb = 6;
+         int tn = 4;
+         int hsl = hitungLuas(pn,lb,tn);
+         System.out.println("Hasilnya yaitu " + hsl);
     }
 
     public static double hitungLuas(double panjang, double lebar, double tinggi){
         double luas = panjang * lebar * tinggi;
+        return luas;
+    }
+
+    public static int hitungLuas(int panjang, int lebar, int tinggi) {
+        int luas = panjang * lebar * tinggi;
         return luas;
     }
 }
